@@ -3,3 +3,10 @@ Module4/10_Monkey_Species.zip
 Module6/Transfer Learning/caltech256_subset
 Module6/Fine Tuning/10_Monkey_Species
 Module6/Fine Tuning/runs
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.pt
+*.pth
+*.ckpt
